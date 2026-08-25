@@ -1,5 +1,5 @@
 ❤️ DAY 1 of Learning Python 🐍
-🐍 Python From Scratch
+As Python From Scratch
 
 Welcome to Day 1 of my Python learning journey! 🚀
 
